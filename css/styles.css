@@ -44,7 +44,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .menu-toggle span { display: block; height: 2px; width: 22px; margin: 5px 0; background: var(--forest); }
 .hero { min-height: 690px; height: min(760px, calc(100vh - 82px)); position: relative; color: white; display: flex; align-items: center; overflow: hidden; background: #34473d; }
 .hero-image, .hero-shade { position: absolute; inset: 0; }
-.hero-image { background: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=85") center 55%/cover no-repeat; transform: scale(1.015); }
+.hero-image { background: url("https://images.unsplash.com/photo-1566847838496-c670dd0ec05e?auto=format&fit=crop&w=2200&q=85") center 55%/cover no-repeat; transform: scale(1.015); }
 .hero-shade { background: linear-gradient(90deg, rgba(12,31,25,.79) 0%, rgba(16,38,31,.55) 44%, rgba(14,31,25,.08) 100%), linear-gradient(0deg, rgba(12,31,25,.38), transparent 32%); }
 .hero-content { position: relative; z-index: 1; padding-top: 10px; }
 .eyebrow { display: flex; align-items: center; gap: 11px; color: #62786b; font-size: 9px; line-height: 1.5; letter-spacing: 1.9px; font-weight: 700; margin: 0 0 25px; }
