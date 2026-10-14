@@ -100,7 +100,7 @@ h2 { font-size: clamp(39px, 4.5vw, 58px); line-height: 1.1; margin: 0; }
 .extras-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 19px; }
 .extra-card { background: var(--cream); min-width: 0; }
 .extra-image { height: 220px; background-size: cover; background-position: center; }
-.awning-image { background-image: url("https://www.reimo.com/en/camping-shop/awnings-for-caravans-motorhomes-campervans/caravan-awnings-caravan-porch-awnings/17442/campervan-awning-evora390-breathable?auto=format&fit=crop&w=900&q=80"); }
+.awning-image { background-image: url("https://d2rqvrnppmk7he.cloudfront.net/article-imagepool/full/c4/aa/9000092.jpg?20240319140603?auto=format&fit=crop&w=900&q=80"); }
 .box-image { background-image: url("https://vdlhapro.com/wp-content/uploads/2021/10/Traxer_8.6_Antracite_driekwart_auto.jpg?auto=format&fit=crop&w=900&q=80"); }
 .chairs-image { background-image: url("https://images.unsplash.com/photo-1660810374852-4d52ca93de74?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=900&q=80"); background-position: 70% center; }
 .extra-content { padding: 24px 23px 19px; }
